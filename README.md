@@ -1,2 +1,7 @@
-# MintLang
-Minimum Translation for OS development Language. A hybrid interpreting/compiling language.
+# MSharp #
+
+An implementation of the language Mx*.
+
+## Target ##
+
+A bootstrappable general programming language.
